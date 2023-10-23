@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Datentyp_double_erkunden {
+public class Datentyp_double_erkunden {//g
     public static void main(String[] args) {
         double a, b;
         Scanner input = new Scanner(System.in);
